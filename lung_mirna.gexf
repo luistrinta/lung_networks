@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-06-14">
+    <creator>NetworkX 2.8.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="TCGA-18-3407-01A-01T-0981-13" label="TCGA-18-3407-01A-01T-0981-13" />
+      <node id="TCGA-18-3406-01A-01T-0981-13" label="TCGA-18-3406-01A-01T-0981-13" />
+      <node id="TCGA-18-3408-01A-01T-0981-13" label="TCGA-18-3408-01A-01T-0981-13" />
+      <node id="TCGA-18-3411-01A-01T-0981-13" label="TCGA-18-3411-01A-01T-0981-13" />
+      <node id="TCGA-18-3410-01A-01T-0981-13" label="TCGA-18-3410-01A-01T-0981-13" />
+      <node id="TCGA-18-3412-01A-01T-0981-13" label="TCGA-18-3412-01A-01T-0981-13" />
+      <node id="TCGA-18-3414-01A-01T-0981-13" label="TCGA-18-3414-01A-01T-0981-13" />
+      <node id="TCGA-18-3415-01A-01T-0981-13" label="TCGA-18-3415-01A-01T-0981-13" />
+      <node id="TCGA-18-3416-01A-01T-0981-13" label="TCGA-18-3416-01A-01T-0981-13" />
+      <node id="TCGA-18-3419-01A-01T-0981-13" label="TCGA-18-3419-01A-01T-0981-13" />
+      <node id="TCGA-18-3421-01A-01T-0981-13" label="TCGA-18-3421-01A-01T-0981-13" />
+      <node id="TCGA-21-1077-01A-01T-1557-13" label="TCGA-21-1077-01A-01T-1557-13" />
+      <node id="TCGA-18-4086-01A-01T-1557-13" label="TCGA-18-4086-01A-01T-1557-13" />
+      <node id="TCGA-21-1076-01A-01T-1557-13" label="TCGA-21-1076-01A-01T-1557-13" />
+      <node id="TCGA-21-1080-01A-01T-1557-13" label="TCGA-21-1080-01A-01T-1557-13" />
+      <node id="TCGA-22-0940-01A-01T-1557-13" label="TCGA-22-0940-01A-01T-1557-13" />
+      <node id="TCGA-22-0944-01A-01T-1557-13" label="TCGA-22-0944-01A-01T-1557-13" />
+      <node id="TCGA-21-1079-01A-01T-1557-13" label="TCGA-21-1079-01A-01T-1557-13" />
+      <node id="TCGA-22-1011-01A-01T-1557-13" label="TCGA-22-1011-01A-01T-1557-13" />
+      <node id="TCGA-22-1012-01A-01T-1557-13" label="TCGA-22-1012-01A-01T-1557-13" />
+      <node id="TCGA-22-4591-01A-01T-1517-13" label="TCGA-22-4591-01A-01T-1517-13" />
+      <node id="TCGA-21-1075-01A-01T-1557-13" label="TCGA-21-1075-01A-01T-1557-13" />
+      <node id="TCGA-22-4594-01A-01T-1517-13" label="TCGA-22-4594-01A-01T-1517-13" />
+      <node id="TCGA-22-4595-01A-01T-1517-13" label="TCGA-22-4595-01A-01T-1517-13" />
+      <node id="TCGA-22-4596-01A-01T-1517-13" label="TCGA-22-4596-01A-01T-1517-13" />
+      <node id="TCGA-22-4604-01A-01T-1517-13" label="TCGA-22-4604-01A-01T-1517-13" />
+      <node id="TCGA-22-4607-01A-01T-1517-13" label="TCGA-22-4607-01A-01T-1517-13" />
+      <node id="TCGA-33-4532-01A-01T-1517-13" label="TCGA-33-4532-01A-01T-1517-13" />
+      <node id="TCGA-33-4533-01A-01T-1517-13" label="TCGA-33-4533-01A-01T-1517-13" />
+      <node id="TCGA-33-4538-01A-01T-1517-13" label="TCGA-33-4538-01A-01T-1517-13" />
+      <node id="TCGA-33-4547-01A-01T-1517-13" label="TCGA-33-4547-01A-01T-1517-13" />
+      <node id="TCGA-34-2596-01A-01T-1557-13" label="TCGA-34-2596-01A-01T-1557-13" />
+      <node id="TCGA-34-2600-01A-01T-1557-13" label="TCGA-34-2600-01A-01T-1557-13" />
+      <node id="TCGA-21-1078-01A-01T-1557-13" label="TCGA-21-1078-01A-01T-1557-13" />
+      <node id="TCGA-34-2604-01A-01T-1557-13" label="TCGA-34-2604-01A-01T-1557-13" />
+      <node id="TCGA-34-2605-01A-01T-1557-13" label="TCGA-34-2605-01A-01T-1557-13" />
+      <node id="TCGA-34-2608-01A-02T-1557-13" label="TCGA-34-2608-01A-02T-1557-13" />
+      <node id="TCGA-34-2609-01A-01T-1557-13" label="TCGA-34-2609-01A-01T-1557-13" />
+      <node id="TCGA-37-3789-01A-01T-0981-13" label="TCGA-37-3789-01A-01T-0981-13" />
+      <node id="TCGA-37-3792-01A-01T-0981-13" label="TCGA-37-3792-01A-01T-0981-13" />
+      <node id="TCGA-37-4133-01A-01T-1557-13" label="TCGA-37-4133-01A-01T-1557-13" />
+      <node id="TCGA-37-4135-01A-01T-1557-13" label="TCGA-37-4135-01A-01T-1557-13" />
+      <node id="TCGA-37-4130-01A-01T-1557-13" label="TCGA-37-4130-01A-01T-1557-13" />
+      <node id="TCGA-37-4141-01A-02T-1557-13" label="TCGA-37-4141-01A-02T-1557-13" />
+      <node id="TCGA-43-2578-01A-01T-1557-13" label="TCGA-43-2578-01A-01T-1557-13" />
+      <node id="TCGA-43-2581-01A-01T-1557-13" label="TCGA-43-2581-01A-01T-1557-13" />
+      <node id="TCGA-43-3394-01A-01T-0981-13" label="TCGA-43-3394-01A-01T-0981-13" />
+      <node id="TCGA-43-3920-01A-01T-0981-13" label="TCGA-43-3920-01A-01T-0981-13" />
+      <node id="TCGA-46-3768-01A-01T-0981-13" label="TCGA-46-3768-01A-01T-0981-13" />
+      <node id="TCGA-51-4079-01A-01T-1557-13" label="TCGA-51-4079-01A-01T-1557-13" />
+      <node id="TCGA-51-4080-01A-01T-1557-13" label="TCGA-51-4080-01A-01T-1557-13" />
+      <node id="TCGA-51-4081-01A-01T-1557-13" label="TCGA-51-4081-01A-01T-1557-13" />
+      <node id="TCGA-56-1622-01A-01T-1557-13" label="TCGA-56-1622-01A-01T-1557-13" />
+      <node id="TCGA-60-2695-01A-01T-1557-13" label="TCGA-60-2695-01A-01T-1557-13" />
+      <node id="TCGA-60-2696-01A-01T-1557-13" label="TCGA-60-2696-01A-01T-1557-13" />
+      <node id="TCGA-60-2698-01A-01T-1557-13" label="TCGA-60-2698-01A-01T-1557-13" />
+      <node id="TCGA-60-2706-01A-01T-1557-13" label="TCGA-60-2706-01A-01T-1557-13" />
+      <node id="TCGA-21-1083-01A-01T-1557-13" label="TCGA-21-1083-01A-01T-1557-13" />
+      <node id="TCGA-60-2708-01A-01T-1557-13" label="TCGA-60-2708-01A-01T-1557-13" />
+      <node id="TCGA-60-2710-01A-01T-1557-13" label="TCGA-60-2710-01A-01T-1557-13" />
+      <node id="TCGA-60-2711-01A-01T-1557-13" label="TCGA-60-2711-01A-01T-1557-13" />
+      <node id="TCGA-60-2712-01A-01T-1557-13" label="TCGA-60-2712-01A-01T-1557-13" />
+      <node id="TCGA-60-2713-01A-01T-1557-13" label="TCGA-60-2713-01A-01T-1557-13" />
+      <node id="TCGA-60-2714-01A-01T-1557-13" label="TCGA-60-2714-01A-01T-1557-13" />
+      <node id="TCGA-60-2716-01A-01T-1557-13" label="TCGA-60-2716-01A-01T-1557-13" />
+      <node id="TCGA-60-2719-01A-01T-1557-13" label="TCGA-60-2719-01A-01T-1557-13" />
+      <node id="TCGA-60-2720-01A-01T-1557-13" label="TCGA-60-2720-01A-01T-1557-13" />
+      <node id="TCGA-60-2721-01A-01T-1557-13" label="TCGA-60-2721-01A-01T-1557-13" />
+      <node id="TCGA-60-2722-01A-01T-1557-13" label="TCGA-60-2722-01A-01T-1557-13" />
+      <node id="TCGA-60-2723-01A-01T-1557-13" label="TCGA-60-2723-01A-01T-1557-13" />
+      <node id="TCGA-60-2724-01A-01T-1557-13" label="TCGA-60-2724-01A-01T-1557-13" />
+      <node id="TCGA-60-2725-01A-01T-1517-13" label="TCGA-60-2725-01A-01T-1517-13" />
+      <node id="TCGA-66-2727-01A-01T-0981-13" label="TCGA-66-2727-01A-01T-0981-13" />
+      <node id="TCGA-66-2734-01A-01T-0981-13" label="TCGA-66-2734-01A-01T-0981-13" />
+      <node id="TCGA-66-2737-01A-01T-0981-13" label="TCGA-66-2737-01A-01T-0981-13" />
+      <node id="TCGA-66-2742-01A-01T-0981-13" label="TCGA-66-2742-01A-01T-0981-13" />
+      <node id="TCGA-66-2744-01A-01T-0981-13" label="TCGA-66-2744-01A-01T-0981-13" />
+      <node id="TCGA-66-2753-01A-01T-0981-13" label="TCGA-66-2753-01A-01T-0981-13" />
+      <node id="TCGA-66-2754-01A-01T-0981-13" label="TCGA-66-2754-01A-01T-0981-13" />
+      <node id="TCGA-66-2755-01A-01T-1557-13" label="TCGA-66-2755-01A-01T-1557-13" />
+      <node id="TCGA-66-2758-01A-02T-1557-13" label="TCGA-66-2758-01A-02T-1557-13" />
+      <node id="TCGA-66-2759-01A-01T-1557-13" label="TCGA-66-2759-01A-01T-1557-13" />
+      <node id="TCGA-66-2763-01A-01T-1557-13" label="TCGA-66-2763-01A-01T-1557-13" />
+      <node id="TCGA-66-2765-01A-01T-1557-13" label="TCGA-66-2765-01A-01T-1557-13" />
+      <node id="TCGA-66-2766-01A-01T-1557-13" label="TCGA-66-2766-01A-01T-1557-13" />
+      <node id="TCGA-66-2767-01A-01T-1557-13" label="TCGA-66-2767-01A-01T-1557-13" />
+      <node id="TCGA-66-2768-01A-01T-1557-13" label="TCGA-66-2768-01A-01T-1557-13" />
+      <node id="TCGA-66-2770-01A-01T-1557-13" label="TCGA-66-2770-01A-01T-1557-13" />
+      <node id="TCGA-66-2771-01A-01T-0981-13" label="TCGA-66-2771-01A-01T-0981-13" />
+      <node id="TCGA-66-2777-01A-01T-1517-13" label="TCGA-66-2777-01A-01T-1517-13" />
+      <node id="TCGA-66-2780-01A-01T-1557-13" label="TCGA-66-2780-01A-01T-1557-13" />
+      <node id="TCGA-66-2781-01A-01T-1557-13" label="TCGA-66-2781-01A-01T-1557-13" />
+      <node id="TCGA-66-2782-01A-01T-1557-13" label="TCGA-66-2782-01A-01T-1557-13" />
+      <node id="TCGA-66-2783-01A-01T-1517-13" label="TCGA-66-2783-01A-01T-1517-13" />
+      <node id="TCGA-66-2785-01A-01T-1557-13" label="TCGA-66-2785-01A-01T-1557-13" />
+      <node id="TCGA-66-2786-01A-01T-1557-13" label="TCGA-66-2786-01A-01T-1557-13" />
+      <node id="TCGA-66-2787-01A-01T-0981-13" label="TCGA-66-2787-01A-01T-0981-13" />
+      <node id="TCGA-66-2788-01A-01T-0981-13" label="TCGA-66-2788-01A-01T-0981-13" />
+      <node id="TCGA-66-2789-01A-01T-0981-13" label="TCGA-66-2789-01A-01T-0981-13" />
+      <node id="TCGA-66-2790-01A-01T-0981-13" label="TCGA-66-2790-01A-01T-0981-13" />
+      <node id="TCGA-66-2791-01A-01T-0981-13" label="TCGA-66-2791-01A-01T-0981-13" />
+      <node id="TCGA-66-2792-01A-01T-0981-13" label="TCGA-66-2792-01A-01T-0981-13" />
+      <node id="TCGA-66-2793-01A-01T-1517-13" label="TCGA-66-2793-01A-01T-1517-13" />
+      <node id="TCGA-66-2794-01A-01T-1517-13" label="TCGA-66-2794-01A-01T-1517-13" />
+      <node id="TCGA-66-2795-01A-02T-0981-13" label="TCGA-66-2795-01A-02T-0981-13" />
+      <node id="TCGA-66-2800-01A-01T-1517-13" label="TCGA-66-2800-01A-01T-1517-13" />
+    </nodes>
+    <edges>
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-18-3406-01A-01T-0981-13" id="0" weight="0.3253033164506252" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-22-0940-01A-01T-1557-13" id="1" weight="0.20797344770432588" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-22-1011-01A-01T-1557-13" id="2" weight="0.23207065204232344" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-22-4596-01A-01T-1517-13" id="3" weight="0.24653431239833506" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-34-2608-01A-02T-1557-13" id="4" weight="0.2949560085874557" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-60-2712-01A-01T-1557-13" id="5" weight="0.3318461912654547" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-60-2720-01A-01T-1557-13" id="6" weight="0.23804068138345758" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-60-2725-01A-01T-1517-13" id="7" weight="0.24097864678601222" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="8" weight="0.2555589673153413" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="9" weight="0.2467783632797797" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2765-01A-01T-1557-13" id="10" weight="0.27068104228160883" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2770-01A-01T-1557-13" id="11" weight="0.3132155065582828" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2787-01A-01T-0981-13" id="12" weight="0.2221627915678907" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="13" weight="0.32981867047022856" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2790-01A-01T-0981-13" id="14" weight="0.2084420143910229" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="15" weight="0.33904461502174627" />
+      <edge source="TCGA-18-3407-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="16" weight="0.2558013673452767" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-18-3408-01A-01T-0981-13" id="17" weight="0.32974300644272314" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-18-3412-01A-01T-0981-13" id="18" weight="0.2576387650750257" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-18-3414-01A-01T-0981-13" id="19" weight="0.23184476052748007" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-18-3415-01A-01T-0981-13" id="20" weight="0.3978934584458664" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-34-2608-01A-02T-1557-13" id="21" weight="0.228407703396442" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-43-3920-01A-01T-0981-13" id="22" weight="0.2240543922555254" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="23" weight="0.26852546139411315" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="24" weight="0.3653579266185498" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="25" weight="0.4055146144381272" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="26" weight="0.47892798105262696" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="27" weight="0.3895764685424742" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2783-01A-01T-1517-13" id="28" weight="0.267785173592539" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="29" weight="0.42436348668643287" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2790-01A-01T-0981-13" id="30" weight="0.2124505569972992" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="31" weight="0.3492142737308725" />
+      <edge source="TCGA-18-3406-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="32" weight="0.4136915571051548" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-18-3412-01A-01T-0981-13" id="33" weight="0.3640908980852324" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-18-3414-01A-01T-0981-13" id="34" weight="0.20425077755106083" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-18-3415-01A-01T-0981-13" id="35" weight="0.4311768260068543" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-18-3421-01A-01T-0981-13" id="36" weight="0.22267400525190895" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-43-3394-01A-01T-0981-13" id="37" weight="0.2865437992916747" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-43-3920-01A-01T-0981-13" id="38" weight="0.22216636841282733" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-46-3768-01A-01T-0981-13" id="39" weight="0.37150679820651494" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="40" weight="0.38778229476767484" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="41" weight="0.31940097202136863" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="42" weight="0.2325328904649018" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="43" weight="0.2077016074891429" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="44" weight="0.23795538738881514" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2787-01A-01T-0981-13" id="45" weight="0.25530666217635056" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="46" weight="0.27497958446966947" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2789-01A-01T-0981-13" id="47" weight="0.23387778416107027" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="48" weight="0.28033235220011465" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="49" weight="0.24075495640651448" />
+      <edge source="TCGA-18-3408-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="50" weight="0.3476627244332627" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-18-3410-01A-01T-0981-13" id="51" weight="0.2198958973038293" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-18-3412-01A-01T-0981-13" id="52" weight="0.2727572631963567" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-18-3415-01A-01T-0981-13" id="53" weight="0.21625521944218828" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-37-3789-01A-01T-0981-13" id="54" weight="0.25068812993742173" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="55" weight="0.2989441704030939" />
+      <edge source="TCGA-18-3411-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="56" weight="0.26920050361976705" />
+      <edge source="TCGA-18-3410-01A-01T-0981-13" target="TCGA-18-3414-01A-01T-0981-13" id="57" weight="0.21938165705871088" />
+      <edge source="TCGA-18-3410-01A-01T-0981-13" target="TCGA-37-3792-01A-01T-0981-13" id="58" weight="0.25297180785849344" />
+      <edge source="TCGA-18-3410-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="59" weight="0.3130201557963598" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-18-3415-01A-01T-0981-13" id="60" weight="0.3907389431468752" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-18-3416-01A-01T-0981-13" id="61" weight="0.2702155021560121" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-18-3421-01A-01T-0981-13" id="62" weight="0.3242624545740693" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-46-3768-01A-01T-0981-13" id="63" weight="0.3121333733939966" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="64" weight="0.24807208057916275" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="65" weight="0.2464572896139221" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2754-01A-01T-0981-13" id="66" weight="0.23811029228876254" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="67" weight="0.23429765072824563" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="68" weight="0.2932173665176498" />
+      <edge source="TCGA-18-3412-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="69" weight="0.38523252793791035" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-18-3415-01A-01T-0981-13" id="70" weight="0.22242912894470968" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-18-3421-01A-01T-0981-13" id="71" weight="0.2634205973441101" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-37-3789-01A-01T-0981-13" id="72" weight="0.2843998934650493" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-43-3920-01A-01T-0981-13" id="73" weight="0.3395152219514826" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-56-1622-01A-01T-1557-13" id="74" weight="0.2084662268798246" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="75" weight="0.3337572124159733" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="76" weight="0.219829863243461" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="77" weight="0.23872055706333326" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="78" weight="0.25161535820176045" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="79" weight="0.20271658621516978" />
+      <edge source="TCGA-18-3414-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="80" weight="0.24168383552236244" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-18-3421-01A-01T-0981-13" id="81" weight="0.35445130098104605" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-43-3920-01A-01T-0981-13" id="82" weight="0.2575771332853486" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-46-3768-01A-01T-0981-13" id="83" weight="0.2583057090847459" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="84" weight="0.20641972129224254" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="85" weight="0.352459435308319" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="86" weight="0.34726404379378883" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="87" weight="0.3276400967619098" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="88" weight="0.33089530079615065" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="89" weight="0.31902870500604213" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="90" weight="0.20404166969322776" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="91" weight="0.39656067099409875" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="92" weight="0.3597493209325036" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="93" weight="0.3361978358437282" />
+      <edge source="TCGA-18-3415-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="94" weight="0.39574047293594034" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-18-3419-01A-01T-0981-13" id="95" weight="0.3423566125407485" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-21-1080-01A-01T-1557-13" id="96" weight="0.25670851024958674" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-22-4591-01A-01T-1517-13" id="97" weight="0.2195065714895743" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-33-4532-01A-01T-1517-13" id="98" weight="0.2739923752671628" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-60-2719-01A-01T-1557-13" id="99" weight="0.25198735007516876" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-60-2722-01A-01T-1557-13" id="100" weight="0.2665115416531847" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-66-2787-01A-01T-0981-13" id="101" weight="0.23330796524847516" />
+      <edge source="TCGA-18-3416-01A-01T-0981-13" target="TCGA-66-2794-01A-01T-1517-13" id="102" weight="0.26372242802837703" />
+      <edge source="TCGA-18-3419-01A-01T-0981-13" target="TCGA-18-3421-01A-01T-0981-13" id="103" weight="0.3079930378089018" />
+      <edge source="TCGA-18-3419-01A-01T-0981-13" target="TCGA-22-4591-01A-01T-1517-13" id="104" weight="0.2993945777231896" />
+      <edge source="TCGA-18-3419-01A-01T-0981-13" target="TCGA-60-2719-01A-01T-1557-13" id="105" weight="0.23114039721688448" />
+      <edge source="TCGA-18-3419-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="106" weight="0.23745572966536138" />
+      <edge source="TCGA-18-3419-01A-01T-0981-13" target="TCGA-66-2787-01A-01T-0981-13" id="107" weight="0.22984612963366505" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-37-3789-01A-01T-0981-13" id="108" weight="0.23378808789573663" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-43-3920-01A-01T-0981-13" id="109" weight="0.23141388828357667" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-56-1622-01A-01T-1557-13" id="110" weight="0.2407202885248211" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="111" weight="0.3254867209278674" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="112" weight="0.30362598528320905" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="113" weight="0.3032572951128192" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="114" weight="0.2534136857791249" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="115" weight="0.26681007063443324" />
+      <edge source="TCGA-18-3421-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="116" weight="0.23889114505261813" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-18-4086-01A-01T-1557-13" id="117" weight="0.24672663659915783" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-21-1076-01A-01T-1557-13" id="118" weight="0.2335300047764637" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-22-1011-01A-01T-1557-13" id="119" weight="0.27310641829055426" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-22-4594-01A-01T-1517-13" id="120" weight="0.30716871262197043" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-34-2596-01A-01T-1557-13" id="121" weight="0.23713849103367518" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-34-2605-01A-01T-1557-13" id="122" weight="0.36043646312768124" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="123" weight="0.23918307062782984" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="124" weight="0.2427505607392293" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="125" weight="0.20648052765616506" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-60-2723-01A-01T-1557-13" id="126" weight="0.21103330097664375" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="127" weight="0.21873287241559197" />
+      <edge source="TCGA-21-1077-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="128" weight="0.26126541069883846" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-22-0944-01A-01T-1557-13" id="129" weight="0.21372611493008092" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-22-4594-01A-01T-1517-13" id="130" weight="0.21073834884033185" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-33-4538-01A-01T-1517-13" id="131" weight="0.33878279416523044" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-34-2605-01A-01T-1557-13" id="132" weight="0.3218004846900031" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-51-4079-01A-01T-1557-13" id="133" weight="0.23698578726907338" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-51-4081-01A-01T-1557-13" id="134" weight="0.24770834296330047" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="135" weight="0.23131071006425113" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="136" weight="0.24924391000878254" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="137" weight="0.20632287133703564" />
+      <edge source="TCGA-18-4086-01A-01T-1557-13" target="TCGA-66-2791-01A-01T-0981-13" id="138" weight="0.22056932232059437" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-22-0940-01A-01T-1557-13" id="139" weight="0.28235091160020337" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-22-1011-01A-01T-1557-13" id="140" weight="0.31326338125204983" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-22-1012-01A-01T-1557-13" id="141" weight="0.2037535961048709" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-22-4596-01A-01T-1517-13" id="142" weight="0.3978761245050197" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-34-2596-01A-01T-1557-13" id="143" weight="0.22174512613606098" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-34-2604-01A-01T-1557-13" id="144" weight="0.29139977900601133" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="145" weight="0.3291437699851933" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-34-2609-01A-01T-1557-13" id="146" weight="0.2707517537545866" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="147" weight="0.32382057665343783" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="148" weight="0.3463379160971229" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2710-01A-01T-1557-13" id="149" weight="0.28327813986454214" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="150" weight="0.3251167702300847" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2713-01A-01T-1557-13" id="151" weight="0.2853315240000792" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="152" weight="0.30694254596520887" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="153" weight="0.3365912887867562" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="154" weight="0.3000301555542349" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="155" weight="0.28116009737822767" />
+      <edge source="TCGA-21-1076-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="156" weight="0.21941715036615886" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-33-4532-01A-01T-1517-13" id="157" weight="0.2219850498887326" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-51-4080-01A-01T-1557-13" id="158" weight="0.22424121361798416" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="159" weight="0.2668067689314148" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-60-2722-01A-01T-1557-13" id="160" weight="0.26660371419578216" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-66-2759-01A-01T-1557-13" id="161" weight="0.31927550730666876" />
+      <edge source="TCGA-21-1080-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="162" weight="0.2129182982582416" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-22-4594-01A-01T-1517-13" id="163" weight="0.23151706650290219" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-22-4596-01A-01T-1517-13" id="164" weight="0.2967691735397118" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="165" weight="0.41145014177032335" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-34-2609-01A-01T-1557-13" id="166" weight="0.22903253498154347" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="167" weight="0.23113599494619325" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="168" weight="0.20927734525468236" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="169" weight="0.41444324482568107" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="170" weight="0.25170615503476695" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="171" weight="0.2446848084241852" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="172" weight="0.27894492979478813" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="173" weight="0.216002088877443" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="174" weight="0.3712495405129966" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="175" weight="0.27851020556402994" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="176" weight="0.3020915188053998" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="177" weight="0.21998559356916297" />
+      <edge source="TCGA-22-0940-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="178" weight="0.22904821807088097" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-21-1079-01A-01T-1557-13" id="179" weight="0.23228251131933852" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-22-1012-01A-01T-1557-13" id="180" weight="0.3388917503648382" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-22-4604-01A-01T-1517-13" id="181" weight="0.23495799133192902" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="182" weight="0.21175472308616786" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="183" weight="0.22328757172949806" />
+      <edge source="TCGA-22-0944-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="184" weight="0.2226690526973813" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-22-4607-01A-01T-1517-13" id="185" weight="0.24709725276297514" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-33-4533-01A-01T-1517-13" id="186" weight="0.2111436328858425" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="187" weight="0.20691662759651427" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-51-4079-01A-01T-1557-13" id="188" weight="0.20596958911406504" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-51-4081-01A-01T-1557-13" id="189" weight="0.3464155061180557" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="190" weight="0.41165990918115564" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-60-2724-01A-01T-1557-13" id="191" weight="0.23653372909746848" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-66-2737-01A-01T-0981-13" id="192" weight="0.2520143139831525" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="193" weight="0.3680589948295331" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-66-2768-01A-01T-1557-13" id="194" weight="0.21288555636997564" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="195" weight="0.29586368148691095" />
+      <edge source="TCGA-21-1079-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="196" weight="0.3407503340222887" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-22-4594-01A-01T-1517-13" id="197" weight="0.36134828344460074" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-22-4596-01A-01T-1517-13" id="198" weight="0.3847532307164035" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-34-2596-01A-01T-1557-13" id="199" weight="0.30957730497390556" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="200" weight="0.4616877577865007" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-34-2609-01A-01T-1557-13" id="201" weight="0.24053236659468955" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="202" weight="0.2844197036831598" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="203" weight="0.40922297721164574" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="204" weight="0.3690241926785836" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-60-2721-01A-01T-1557-13" id="205" weight="0.2605250037969585" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="206" weight="0.2600567122521797" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="207" weight="0.3160379123551928" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="208" weight="0.2731303556374378" />
+      <edge source="TCGA-22-1011-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="209" weight="0.28792721285639133" />
+      <edge source="TCGA-22-1012-01A-01T-1557-13" target="TCGA-22-4595-01A-01T-1517-13" id="210" weight="0.216554023565355" />
+      <edge source="TCGA-22-1012-01A-01T-1557-13" target="TCGA-22-4596-01A-01T-1517-13" id="211" weight="0.22288531424508762" />
+      <edge source="TCGA-22-1012-01A-01T-1557-13" target="TCGA-22-4604-01A-01T-1517-13" id="212" weight="0.23131181063192394" />
+      <edge source="TCGA-22-1012-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="213" weight="0.28873557981206704" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-21-1075-01A-01T-1557-13" id="214" weight="0.34688517337242547" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-33-4532-01A-01T-1517-13" id="215" weight="0.5395659581211989" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-37-4135-01A-01T-1557-13" id="216" weight="0.25048039778917963" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-43-2578-01A-01T-1557-13" id="217" weight="0.2462079940833482" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-51-4080-01A-01T-1557-13" id="218" weight="0.20525091842372295" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-60-2711-01A-01T-1557-13" id="219" weight="0.3991602118372657" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-60-2719-01A-01T-1557-13" id="220" weight="0.48770363253366084" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-60-2722-01A-01T-1557-13" id="221" weight="0.2626017749955427" />
+      <edge source="TCGA-22-4591-01A-01T-1517-13" target="TCGA-66-2793-01A-01T-1517-13" id="222" weight="0.3608311790292877" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-33-4532-01A-01T-1517-13" id="223" weight="0.41980025797306253" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-37-4135-01A-01T-1557-13" id="224" weight="0.257348215209405" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-46-3768-01A-01T-0981-13" id="225" weight="0.3706004807279595" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-51-4080-01A-01T-1557-13" id="226" weight="0.3987095293752518" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-60-2711-01A-01T-1557-13" id="227" weight="0.23302897134341893" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="228" weight="0.3216824488070947" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-60-2722-01A-01T-1557-13" id="229" weight="0.36383281496595943" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-66-2727-01A-01T-0981-13" id="230" weight="0.28938794130012263" />
+      <edge source="TCGA-21-1075-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="231" weight="0.2697100664522761" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-22-4596-01A-01T-1517-13" id="232" weight="0.28822904354065826" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-34-2605-01A-01T-1557-13" id="233" weight="0.21833859404680933" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-34-2608-01A-02T-1557-13" id="234" weight="0.25103895315096386" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-43-2581-01A-01T-1557-13" id="235" weight="0.3063232015073375" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-43-3920-01A-01T-0981-13" id="236" weight="0.24871178553898102" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-60-2712-01A-01T-1557-13" id="237" weight="0.3163944962811818" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-66-2737-01A-01T-0981-13" id="238" weight="0.20163500333472004" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-66-2744-01A-01T-0981-13" id="239" weight="0.2612266156883721" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-66-2782-01A-01T-1557-13" id="240" weight="0.21751426885987793" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-66-2788-01A-01T-0981-13" id="241" weight="0.28246096836748397" />
+      <edge source="TCGA-22-4594-01A-01T-1517-13" target="TCGA-66-2791-01A-01T-0981-13" id="242" weight="0.250770964904202" />
+      <edge source="TCGA-22-4595-01A-01T-1517-13" target="TCGA-22-4604-01A-01T-1517-13" id="243" weight="0.30055127434730833" />
+      <edge source="TCGA-22-4595-01A-01T-1517-13" target="TCGA-51-4081-01A-01T-1557-13" id="244" weight="0.25232990176332953" />
+      <edge source="TCGA-22-4595-01A-01T-1517-13" target="TCGA-60-2724-01A-01T-1557-13" id="245" weight="0.2086236080570358" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-33-4547-01A-01T-1517-13" id="246" weight="0.2617064631937153" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-34-2596-01A-01T-1557-13" id="247" weight="0.24249027648461077" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-34-2604-01A-01T-1557-13" id="248" weight="0.25767370809863727" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-34-2608-01A-02T-1557-13" id="249" weight="0.5261350791456112" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-34-2609-01A-01T-1557-13" id="250" weight="0.21194264501629942" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-43-2581-01A-01T-1557-13" id="251" weight="0.37453556044207603" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2698-01A-01T-1557-13" id="252" weight="0.24408747531976993" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2712-01A-01T-1557-13" id="253" weight="0.2996056115744501" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2713-01A-01T-1557-13" id="254" weight="0.21171592807570144" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2714-01A-01T-1557-13" id="255" weight="0.22165695839805813" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2720-01A-01T-1557-13" id="256" weight="0.4430901959230571" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2721-01A-01T-1557-13" id="257" weight="0.24671287950324777" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-60-2725-01A-01T-1517-13" id="258" weight="0.3588929169665714" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-66-2767-01A-01T-1557-13" id="259" weight="0.3584144451708191" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-66-2780-01A-01T-1557-13" id="260" weight="0.24989627149683807" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-66-2782-01A-01T-1557-13" id="261" weight="0.2611454488225026" />
+      <edge source="TCGA-22-4596-01A-01T-1517-13" target="TCGA-66-2783-01A-01T-1517-13" id="262" weight="0.20151889344523904" />
+      <edge source="TCGA-22-4604-01A-01T-1517-13" target="TCGA-51-4081-01A-01T-1557-13" id="263" weight="0.2937871854302449" />
+      <edge source="TCGA-22-4604-01A-01T-1517-13" target="TCGA-60-2713-01A-01T-1557-13" id="264" weight="0.2883878004274605" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-33-4547-01A-01T-1517-13" id="265" weight="0.2450160792936997" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-34-2600-01A-01T-1557-13" id="266" weight="0.21501460453301813" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-60-2721-01A-01T-1557-13" id="267" weight="0.25112835700654396" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-66-2765-01A-01T-1557-13" id="268" weight="0.2013141878580972" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-66-2768-01A-01T-1557-13" id="269" weight="0.20419217232248393" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-66-2780-01A-01T-1557-13" id="270" weight="0.3720419492374167" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-66-2782-01A-01T-1557-13" id="271" weight="0.31377789663908645" />
+      <edge source="TCGA-22-4607-01A-01T-1517-13" target="TCGA-66-2785-01A-01T-1557-13" id="272" weight="0.22457606133243527" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-37-4133-01A-01T-1557-13" id="273" weight="0.22732775565636756" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-37-4135-01A-01T-1557-13" id="274" weight="0.226747756492799" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-37-4141-01A-02T-1557-13" id="275" weight="0.21852266399008607" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-51-4080-01A-01T-1557-13" id="276" weight="0.3474646222521577" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-60-2711-01A-01T-1557-13" id="277" weight="0.3235063645828518" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-60-2719-01A-01T-1557-13" id="278" weight="0.503995886078039" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-60-2722-01A-01T-1557-13" id="279" weight="0.3716955455624011" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-60-2723-01A-01T-1557-13" id="280" weight="0.3111566195843816" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-66-2754-01A-01T-0981-13" id="281" weight="0.25048149835685246" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-66-2763-01A-01T-1557-13" id="282" weight="0.23618319829367987" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-66-2766-01A-01T-1557-13" id="283" weight="0.2547822416802587" />
+      <edge source="TCGA-33-4532-01A-01T-1517-13" target="TCGA-66-2793-01A-01T-1517-13" id="284" weight="0.3429783192968536" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-43-2581-01A-01T-1557-13" id="285" weight="0.21118242789630892" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-43-3920-01A-01T-0981-13" id="286" weight="0.4282361091851177" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-56-1622-01A-01T-1557-13" id="287" weight="0.30254797924769594" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-60-2708-01A-01T-1557-13" id="288" weight="0.4021102834842212" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-60-2713-01A-01T-1557-13" id="289" weight="0.2936933620361382" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-60-2720-01A-01T-1557-13" id="290" weight="0.20048738639390198" />
+      <edge source="TCGA-33-4533-01A-01T-1517-13" target="TCGA-60-2724-01A-01T-1557-13" id="291" weight="0.21709165087352056" />
+      <edge source="TCGA-33-4538-01A-01T-1517-13" target="TCGA-34-2609-01A-01T-1557-13" id="292" weight="0.21746584388227447" />
+      <edge source="TCGA-33-4538-01A-01T-1517-13" target="TCGA-60-2696-01A-01T-1557-13" id="293" weight="0.2610747373495249" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-34-2608-01A-02T-1557-13" id="294" weight="0.2553256645314053" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-60-2713-01A-01T-1557-13" id="295" weight="0.2656580514229239" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-60-2720-01A-01T-1557-13" id="296" weight="0.23709364290100834" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-60-2721-01A-01T-1557-13" id="297" weight="0.4099017523238486" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-66-2780-01A-01T-1557-13" id="298" weight="0.3848121110868986" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-66-2781-01A-01T-1557-13" id="299" weight="0.26776453794867394" />
+      <edge source="TCGA-33-4547-01A-01T-1517-13" target="TCGA-66-2783-01A-01T-1517-13" id="300" weight="0.22319925117375541" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-34-2605-01A-01T-1557-13" id="301" weight="0.25576202205097387" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="302" weight="0.34406664322916014" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-34-2609-01A-01T-1557-13" id="303" weight="0.21157945768427355" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="304" weight="0.25070738987169583" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-51-4079-01A-01T-1557-13" id="305" weight="0.21845662992971776" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-60-2698-01A-01T-1557-13" id="306" weight="0.2915959551936889" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-60-2710-01A-01T-1557-13" id="307" weight="0.23460691024430402" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="308" weight="0.38137613881239946" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="309" weight="0.3592756393747895" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="310" weight="0.3286460156148541" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="311" weight="0.24323426023142736" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="312" weight="0.27844059465872495" />
+      <edge source="TCGA-34-2596-01A-01T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="313" weight="0.25131297723365714" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-21-1078-01A-01T-1557-13" id="314" weight="0.3203320522725622" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-37-4133-01A-01T-1557-13" id="315" weight="0.24328351063478543" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-51-4080-01A-01T-1557-13" id="316" weight="0.2516582803409999" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-60-2695-01A-01T-1557-13" id="317" weight="0.2124268947923339" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-60-2716-01A-01T-1557-13" id="318" weight="0.2713854055922045" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="319" weight="0.35392222741705565" />
+      <edge source="TCGA-34-2600-01A-01T-1557-13" target="TCGA-66-2800-01A-01T-1517-13" id="320" weight="0.2347191681469302" />
+      <edge source="TCGA-21-1078-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="321" weight="0.20198938612536346" />
+      <edge source="TCGA-21-1078-01A-01T-1557-13" target="TCGA-60-2716-01A-01T-1557-13" id="322" weight="0.4545817732786571" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="323" weight="0.22320050466534158" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="324" weight="0.3087345452784546" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="325" weight="0.23113792093962066" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-60-2698-01A-01T-1557-13" id="326" weight="0.2974105293510393" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="327" weight="0.26005065912997927" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="328" weight="0.2019981906667459" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="329" weight="0.22848775398350468" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="330" weight="0.2724513053833167" />
+      <edge source="TCGA-34-2604-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="331" weight="0.2036765563677745" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-34-2608-01A-02T-1557-13" id="332" weight="0.2532581104448631" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-43-3920-01A-01T-0981-13" id="333" weight="0.20494220919150097" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-51-4079-01A-01T-1557-13" id="334" weight="0.20592941839400764" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-51-4081-01A-01T-1557-13" id="335" weight="0.21768980940369043" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="336" weight="0.4344661476389522" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-60-2713-01A-01T-1557-13" id="337" weight="0.30590305979824395" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-60-2724-01A-01T-1557-13" id="338" weight="0.2780556711151612" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-66-2737-01A-01T-0981-13" id="339" weight="0.20343745804085747" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="340" weight="0.31189592591858883" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="341" weight="0.3282247733380878" />
+      <edge source="TCGA-34-2605-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="342" weight="0.3361337277767873" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-34-2609-01A-01T-1557-13" id="343" weight="0.282963809686799" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-43-2581-01A-01T-1557-13" id="344" weight="0.3275010350495755" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="345" weight="0.20948110225436906" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2698-01A-01T-1557-13" id="346" weight="0.26140148635801624" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="347" weight="0.22316982633935192" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2710-01A-01T-1557-13" id="348" weight="0.20172168691447692" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="349" weight="0.3615437966464471" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2713-01A-01T-1557-13" id="350" weight="0.30585768242030875" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="351" weight="0.6087508480390408" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2721-01A-01T-1557-13" id="352" weight="0.34661844712504614" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="353" weight="0.37149540537040004" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2737-01A-01T-0981-13" id="354" weight="0.33932140781049625" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2744-01A-01T-0981-13" id="355" weight="0.20898763519013147" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="356" weight="0.3468115967649094" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="357" weight="0.4034990900712221" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="358" weight="0.33647382633219847" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="359" weight="0.25484499156724416" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="360" weight="0.38395919755129265" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="361" weight="0.3383908777791321" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="362" weight="0.3082397237409873" />
+      <edge source="TCGA-34-2608-01A-02T-1557-13" target="TCGA-66-2786-01A-01T-1557-13" id="363" weight="0.23840347240130386" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="364" weight="0.33691182912146084" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-60-2698-01A-01T-1557-13" id="365" weight="0.3266223468064828" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="366" weight="0.2918812773628638" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="367" weight="0.29073200957053646" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="368" weight="0.34558320181549645" />
+      <edge source="TCGA-34-2609-01A-01T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="369" weight="0.24323453537334558" />
+      <edge source="TCGA-37-3789-01A-01T-0981-13" target="TCGA-37-3792-01A-01T-0981-13" id="370" weight="0.3144165010312319" />
+      <edge source="TCGA-37-3789-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="371" weight="0.20775636073086498" />
+      <edge source="TCGA-37-3789-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="372" weight="0.2752947784732532" />
+      <edge source="TCGA-37-3789-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="373" weight="0.24132174875800938" />
+      <edge source="TCGA-37-3789-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="374" weight="0.24999312145204497" />
+      <edge source="TCGA-37-3792-01A-01T-0981-13" target="TCGA-60-2706-01A-01T-1557-13" id="375" weight="0.27401906403322834" />
+      <edge source="TCGA-37-3792-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="376" weight="0.26386027412939594" />
+      <edge source="TCGA-37-3792-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="377" weight="0.31993034507198814" />
+      <edge source="TCGA-37-3792-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="378" weight="0.21642278087037295" />
+      <edge source="TCGA-37-3792-01A-01T-0981-13" target="TCGA-66-2790-01A-01T-0981-13" id="379" weight="0.24270956459341728" />
+      <edge source="TCGA-37-4133-01A-01T-1557-13" target="TCGA-37-4135-01A-01T-1557-13" id="380" weight="0.3184511821197374" />
+      <edge source="TCGA-37-4133-01A-01T-1557-13" target="TCGA-37-4141-01A-02T-1557-13" id="381" weight="0.22619141953419575" />
+      <edge source="TCGA-37-4133-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="382" weight="0.21286987328063817" />
+      <edge source="TCGA-37-4133-01A-01T-1557-13" target="TCGA-66-2800-01A-01T-1517-13" id="383" weight="0.2664898054416468" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-37-4130-01A-01T-1557-13" id="384" weight="0.30346667811257044" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-37-4141-01A-02T-1557-13" id="385" weight="0.26286288467591584" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-51-4080-01A-01T-1557-13" id="386" weight="0.22247562792888573" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-60-2695-01A-01T-1557-13" id="387" weight="0.3071101073933935" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="388" weight="0.20114057330771212" />
+      <edge source="TCGA-37-4135-01A-01T-1557-13" target="TCGA-66-2800-01A-01T-1517-13" id="389" weight="0.24765138858623278" />
+      <edge source="TCGA-37-4130-01A-01T-1557-13" target="TCGA-60-2696-01A-01T-1557-13" id="390" weight="0.24002830660054456" />
+      <edge source="TCGA-37-4130-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="391" weight="0.2709594859028287" />
+      <edge source="TCGA-37-4130-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="392" weight="0.2596167603249756" />
+      <edge source="TCGA-37-4141-01A-02T-1557-13" target="TCGA-43-2578-01A-01T-1557-13" id="393" weight="0.24647488174400356" />
+      <edge source="TCGA-43-2578-01A-01T-1557-13" target="TCGA-60-2711-01A-01T-1557-13" id="394" weight="0.2570194206171543" />
+      <edge source="TCGA-43-2578-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="395" weight="0.24389735225429277" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-60-2698-01A-01T-1557-13" id="396" weight="0.27144373567886315" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="397" weight="0.2390435736753017" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="398" weight="0.20021582132063717" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="399" weight="0.28876281886196903" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2744-01A-01T-0981-13" id="400" weight="0.20599517731245776" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="401" weight="0.25540158613813" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2763-01A-01T-1557-13" id="402" weight="0.20714802194972168" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="403" weight="0.2065099678414126" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="404" weight="0.2215918720876228" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="405" weight="0.2803993299744008" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="406" weight="0.29198885785288053" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="407" weight="0.3819374283255303" />
+      <edge source="TCGA-43-2581-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="408" weight="0.24484466587866022" />
+      <edge source="TCGA-43-3394-01A-01T-0981-13" target="TCGA-46-3768-01A-01T-0981-13" id="409" weight="0.2667580688118932" />
+      <edge source="TCGA-43-3394-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="410" weight="0.22049598182742658" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-60-2708-01A-01T-1557-13" id="411" weight="0.3908473490626465" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-60-2713-01A-01T-1557-13" id="412" weight="0.2530348153577615" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-60-2724-01A-01T-1557-13" id="413" weight="0.21402519419516586" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-66-2734-01A-01T-0981-13" id="414" weight="0.2746175165950146" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="415" weight="0.4706120917169076" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="416" weight="0.2974754628437348" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="417" weight="0.3745339095905668" />
+      <edge source="TCGA-43-3920-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="418" weight="0.43743355322675437" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-51-4080-01A-01T-1557-13" id="419" weight="0.20281013446735827" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-60-2722-01A-01T-1557-13" id="420" weight="0.24375813044368286" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-66-2727-01A-01T-0981-13" id="421" weight="0.3062805545100163" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-66-2787-01A-01T-0981-13" id="422" weight="0.3720353458313798" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="423" weight="0.24474066223358007" />
+      <edge source="TCGA-46-3768-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="424" weight="0.32094479332439674" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-51-4081-01A-01T-1557-13" id="425" weight="0.24953721129358522" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-66-2759-01A-01T-1557-13" id="426" weight="0.23759907860474433" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="427" weight="0.3156821538549584" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="428" weight="0.32282648890297616" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="429" weight="0.28859525743378434" />
+      <edge source="TCGA-51-4079-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="430" weight="0.24164311451846862" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-56-1622-01A-01T-1557-13" id="431" weight="0.2001013622826654" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-60-2695-01A-01T-1557-13" id="432" weight="0.20880355087153954" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="433" weight="0.20849291564589015" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-60-2722-01A-01T-1557-13" id="434" weight="0.4059320047280387" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2727-01A-01T-0981-13" id="435" weight="0.3010721179984636" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2754-01A-01T-0981-13" id="436" weight="0.20419712487701155" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2758-01A-02T-1557-13" id="437" weight="0.30207693628373516" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="438" weight="0.4047161525915067" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2792-01A-01T-0981-13" id="439" weight="0.22638952171530075" />
+      <edge source="TCGA-51-4080-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="440" weight="0.2726351189380133" />
+      <edge source="TCGA-51-4081-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="441" weight="0.3662210468159477" />
+      <edge source="TCGA-51-4081-01A-01T-1557-13" target="TCGA-60-2713-01A-01T-1557-13" id="442" weight="0.22037079225464495" />
+      <edge source="TCGA-51-4081-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="443" weight="0.31280471967440804" />
+      <edge source="TCGA-56-1622-01A-01T-1557-13" target="TCGA-60-2695-01A-01T-1557-13" id="444" weight="0.21549197576109758" />
+      <edge source="TCGA-56-1622-01A-01T-1557-13" target="TCGA-60-2708-01A-01T-1557-13" id="445" weight="0.2286071655760041" />
+      <edge source="TCGA-56-1622-01A-01T-1557-13" target="TCGA-66-2763-01A-01T-1557-13" id="446" weight="0.22983374824734598" />
+      <edge source="TCGA-56-1622-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="447" weight="0.37393123693978697" />
+      <edge source="TCGA-60-2695-01A-01T-1557-13" target="TCGA-66-2754-01A-01T-0981-13" id="448" weight="0.30010636986557665" />
+      <edge source="TCGA-60-2695-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="449" weight="0.24642893304366392" />
+      <edge source="TCGA-60-2695-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="450" weight="0.2504603296571854" />
+      <edge source="TCGA-60-2696-01A-01T-1557-13" target="TCGA-60-2714-01A-01T-1557-13" id="451" weight="0.220149868437444" />
+      <edge source="TCGA-60-2696-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="452" weight="0.2530216085456879" />
+      <edge source="TCGA-60-2696-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="453" weight="0.2463494170293037" />
+      <edge source="TCGA-60-2696-01A-01T-1557-13" target="TCGA-66-2786-01A-01T-1557-13" id="454" weight="0.33716743596346993" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-60-2706-01A-01T-1557-13" id="455" weight="0.22567085102495868" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="456" weight="0.507569429311639" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="457" weight="0.2984563437821228" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2744-01A-01T-0981-13" id="458" weight="0.22518219897823297" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="459" weight="0.23303144762068276" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="460" weight="0.29530046598035264" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="461" weight="0.22333599670710153" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="462" weight="0.2020204771621202" />
+      <edge source="TCGA-60-2698-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="463" weight="0.270276858803771" />
+      <edge source="TCGA-60-2706-01A-01T-1557-13" target="TCGA-21-1083-01A-01T-1557-13" id="464" weight="0.2022068997206007" />
+      <edge source="TCGA-60-2706-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="465" weight="0.21106439201340052" />
+      <edge source="TCGA-60-2706-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="466" weight="0.20984798959303208" />
+      <edge source="TCGA-21-1083-01A-01T-1557-13" target="TCGA-60-2712-01A-01T-1557-13" id="467" weight="0.2284807535807493" />
+      <edge source="TCGA-21-1083-01A-01T-1557-13" target="TCGA-66-2754-01A-01T-0981-13" id="468" weight="0.23775317443290378" />
+      <edge source="TCGA-21-1083-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="469" weight="0.23372069420236785" />
+      <edge source="TCGA-21-1083-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="470" weight="0.21924630231591835" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-60-2713-01A-01T-1557-13" id="471" weight="0.3430992205779741" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-60-2724-01A-01T-1557-13" id="472" weight="0.5020520084259461" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-66-2737-01A-01T-0981-13" id="473" weight="0.2845440678301868" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="474" weight="0.20068081116239755" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="475" weight="0.26694626588394293" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="476" weight="0.23793227546768622" />
+      <edge source="TCGA-60-2708-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="477" weight="0.23890077501975518" />
+      <edge source="TCGA-60-2710-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="478" weight="0.2691691374410921" />
+      <edge source="TCGA-60-2710-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="479" weight="0.2024648313600155" />
+      <edge source="TCGA-60-2711-01A-01T-1557-13" target="TCGA-60-2719-01A-01T-1557-13" id="480" weight="0.37278318156505125" />
+      <edge source="TCGA-60-2711-01A-01T-1557-13" target="TCGA-60-2722-01A-01T-1557-13" id="481" weight="0.2009188089216418" />
+      <edge source="TCGA-60-2711-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="482" weight="0.21713087353231603" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="483" weight="0.23951626749077173" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-60-2721-01A-01T-1557-13" id="484" weight="0.20800261274765525" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2755-01A-01T-1557-13" id="485" weight="0.30591213948154455" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="486" weight="0.3711865330137285" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="487" weight="0.28522421865198067" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="488" weight="0.31235348692855774" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="489" weight="0.30843023831692384" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="490" weight="0.20617291899161588" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="491" weight="0.2241118969164295" />
+      <edge source="TCGA-60-2712-01A-01T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="492" weight="0.20019188397375368" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-60-2720-01A-01T-1557-13" id="493" weight="0.2783671317665652" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-60-2721-01A-01T-1557-13" id="494" weight="0.2343133338175831" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-66-2737-01A-01T-0981-13" id="495" weight="0.24389157427401054" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="496" weight="0.2062937062937063" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="497" weight="0.338037709850741" />
+      <edge source="TCGA-60-2713-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="498" weight="0.21326112508832057" />
+      <edge source="TCGA-60-2719-01A-01T-1557-13" target="TCGA-60-2722-01A-01T-1557-13" id="499" weight="0.2501826942336857" />
+      <edge source="TCGA-60-2719-01A-01T-1557-13" target="TCGA-60-2723-01A-01T-1557-13" id="500" weight="0.27226420887893976" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-60-2721-01A-01T-1557-13" id="501" weight="0.36791509560631375" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-60-2725-01A-01T-1517-13" id="502" weight="0.40734320762649373" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2744-01A-01T-0981-13" id="503" weight="0.3144495180614161" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="504" weight="0.4540056261019434" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="505" weight="0.2683073929532853" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="506" weight="0.3004175553750625" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="507" weight="0.21135164017600278" />
+      <edge source="TCGA-60-2720-01A-01T-1557-13" target="TCGA-66-2790-01A-01T-0981-13" id="508" weight="0.20071878074710936" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2763-01A-01T-1557-13" id="509" weight="0.24084355210417532" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2767-01A-01T-1557-13" id="510" weight="0.28310204903689323" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="511" weight="0.24084850465870297" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="512" weight="0.23403241391909946" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="513" weight="0.22654112491222972" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="514" weight="0.209241301663398" />
+      <edge source="TCGA-60-2721-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="515" weight="0.22658129563228713" />
+      <edge source="TCGA-60-2722-01A-01T-1557-13" target="TCGA-66-2727-01A-01T-0981-13" id="516" weight="0.32122158609410734" />
+      <edge source="TCGA-60-2722-01A-01T-1557-13" target="TCGA-66-2758-01A-02T-1557-13" id="517" weight="0.23109830050339966" />
+      <edge source="TCGA-60-2722-01A-01T-1557-13" target="TCGA-66-2759-01A-01T-1557-13" id="518" weight="0.2005503938931701" />
+      <edge source="TCGA-60-2722-01A-01T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="519" weight="0.26761788730627256" />
+      <edge source="TCGA-60-2722-01A-01T-1557-13" target="TCGA-66-2792-01A-01T-0981-13" id="520" weight="0.20987605406868862" />
+      <edge source="TCGA-60-2723-01A-01T-1557-13" target="TCGA-66-2759-01A-01T-1557-13" id="521" weight="0.20755193028564134" />
+      <edge source="TCGA-60-2724-01A-01T-1557-13" target="TCGA-66-2759-01A-01T-1557-13" id="522" weight="0.21333211170321653" />
+      <edge source="TCGA-60-2724-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="523" weight="0.26790348461736563" />
+      <edge source="TCGA-60-2725-01A-01T-1517-13" target="TCGA-66-2767-01A-01T-1557-13" id="524" weight="0.27753482746400593" />
+      <edge source="TCGA-60-2725-01A-01T-1517-13" target="TCGA-66-2777-01A-01T-1517-13" id="525" weight="0.2802722144081917" />
+      <edge source="TCGA-60-2725-01A-01T-1517-13" target="TCGA-66-2800-01A-01T-1517-13" id="526" weight="0.3302093719940745" />
+      <edge source="TCGA-66-2727-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="527" weight="0.2524072166423441" />
+      <edge source="TCGA-66-2727-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="528" weight="0.21262031956082947" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2737-01A-01T-0981-13" id="529" weight="0.3537199980932672" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="530" weight="0.2979646856699414" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="531" weight="0.30749408909137266" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="532" weight="0.321988703910201" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="533" weight="0.20404526057351596" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="534" weight="0.37704804480356363" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="535" weight="0.21086164142812433" />
+      <edge source="TCGA-66-2734-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="536" weight="0.26664858067000013" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2742-01A-01T-0981-13" id="537" weight="0.4863105890018071" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="538" weight="0.3479494223120285" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2765-01A-01T-1557-13" id="539" weight="0.24652550785695262" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2770-01A-01T-1557-13" id="540" weight="0.22302233492035192" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="541" weight="0.3954554259086837" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="542" weight="0.3983511844275726" />
+      <edge source="TCGA-66-2737-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="543" weight="0.335104697002714" />
+      <edge source="TCGA-66-2742-01A-01T-0981-13" target="TCGA-66-2744-01A-01T-0981-13" id="544" weight="0.28828021993744374" />
+      <edge source="TCGA-66-2742-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="545" weight="0.20931366398788495" />
+      <edge source="TCGA-66-2742-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="546" weight="0.3362231489002027" />
+      <edge source="TCGA-66-2742-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="547" weight="0.2661223717152444" />
+      <edge source="TCGA-66-2742-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="548" weight="0.26034561126629113" />
+      <edge source="TCGA-66-2744-01A-01T-0981-13" target="TCGA-66-2753-01A-01T-0981-13" id="549" weight="0.23853758768772934" />
+      <edge source="TCGA-66-2744-01A-01T-0981-13" target="TCGA-66-2767-01A-01T-1557-13" id="550" weight="0.23486967077618637" />
+      <edge source="TCGA-66-2744-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="551" weight="0.5151237258177768" />
+      <edge source="TCGA-66-2744-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="552" weight="0.4521407141803742" />
+      <edge source="TCGA-66-2744-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="553" weight="0.2801619017700644" />
+      <edge source="TCGA-66-2753-01A-01T-0981-13" target="TCGA-66-2754-01A-01T-0981-13" id="554" weight="0.22931538087345452" />
+      <edge source="TCGA-66-2753-01A-01T-0981-13" target="TCGA-66-2771-01A-01T-0981-13" id="555" weight="0.23777737056773884" />
+      <edge source="TCGA-66-2753-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="556" weight="0.3312518847221397" />
+      <edge source="TCGA-66-2753-01A-01T-0981-13" target="TCGA-66-2789-01A-01T-0981-13" id="557" weight="0.22619719751447798" />
+      <edge source="TCGA-66-2753-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="558" weight="0.22128276536356514" />
+      <edge source="TCGA-66-2754-01A-01T-0981-13" target="TCGA-66-2792-01A-01T-0981-13" id="559" weight="0.22028769939534812" />
+      <edge source="TCGA-66-2755-01A-01T-1557-13" target="TCGA-66-2765-01A-01T-1557-13" id="560" weight="0.21043926957524692" />
+      <edge source="TCGA-66-2755-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="561" weight="0.2758512340665315" />
+      <edge source="TCGA-66-2755-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="562" weight="0.23482729892078333" />
+      <edge source="TCGA-66-2755-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="563" weight="0.22146778308251397" />
+      <edge source="TCGA-66-2758-01A-02T-1557-13" target="TCGA-66-2766-01A-01T-1557-13" id="564" weight="0.21380618122827755" />
+      <edge source="TCGA-66-2758-01A-02T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="565" weight="0.21549032490958836" />
+      <edge source="TCGA-66-2763-01A-01T-1557-13" target="TCGA-66-2793-01A-01T-1517-13" id="566" weight="0.2531234284666394" />
+      <edge source="TCGA-66-2765-01A-01T-1557-13" target="TCGA-66-2770-01A-01T-1557-13" id="567" weight="0.36369139202000395" />
+      <edge source="TCGA-66-2765-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="568" weight="0.38050063722868255" />
+      <edge source="TCGA-66-2765-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="569" weight="0.422901932816947" />
+      <edge source="TCGA-66-2765-01A-01T-1557-13" target="TCGA-66-2786-01A-01T-1557-13" id="570" weight="0.20520964713599274" />
+      <edge source="TCGA-66-2767-01A-01T-1557-13" target="TCGA-66-2771-01A-01T-0981-13" id="571" weight="0.21972861101756286" />
+      <edge source="TCGA-66-2767-01A-01T-1557-13" target="TCGA-66-2777-01A-01T-1517-13" id="572" weight="0.21158413509688298" />
+      <edge source="TCGA-66-2767-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="573" weight="0.200062567272199" />
+      <edge source="TCGA-66-2767-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="574" weight="0.2724843224135009" />
+      <edge source="TCGA-66-2767-01A-01T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="575" weight="0.39190114260935793" />
+      <edge source="TCGA-66-2770-01A-01T-1557-13" target="TCGA-66-2780-01A-01T-1557-13" id="576" weight="0.23277171364990062" />
+      <edge source="TCGA-66-2770-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="577" weight="0.3035544483844767" />
+      <edge source="TCGA-66-2770-01A-01T-1557-13" target="TCGA-66-2783-01A-01T-1517-13" id="578" weight="0.3078728007906478" />
+      <edge source="TCGA-66-2771-01A-01T-0981-13" target="TCGA-66-2788-01A-01T-0981-13" id="579" weight="0.3762274080970965" />
+      <edge source="TCGA-66-2771-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="580" weight="0.2112612705875819" />
+      <edge source="TCGA-66-2771-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="581" weight="0.23072218150121832" />
+      <edge source="TCGA-66-2777-01A-01T-1517-13" target="TCGA-66-2783-01A-01T-1517-13" id="582" weight="0.23012484839680308" />
+      <edge source="TCGA-66-2777-01A-01T-1517-13" target="TCGA-66-2800-01A-01T-1517-13" id="583" weight="0.23272108753695156" />
+      <edge source="TCGA-66-2780-01A-01T-1557-13" target="TCGA-66-2781-01A-01T-1557-13" id="584" weight="0.2709083095060432" />
+      <edge source="TCGA-66-2780-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="585" weight="0.5228750239373469" />
+      <edge source="TCGA-66-2780-01A-01T-1557-13" target="TCGA-66-2786-01A-01T-1557-13" id="586" weight="0.3465973749259868" />
+      <edge source="TCGA-66-2781-01A-01T-1557-13" target="TCGA-66-2782-01A-01T-1557-13" id="587" weight="0.2032074393972411" />
+      <edge source="TCGA-66-2782-01A-01T-1557-13" target="TCGA-66-2785-01A-01T-1557-13" id="588" weight="0.3801586358243582" />
+      <edge source="TCGA-66-2785-01A-01T-1557-13" target="TCGA-66-2794-01A-01T-1517-13" id="589" weight="0.21027638555967168" />
+      <edge source="TCGA-66-2787-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="590" weight="0.32423042284294473" />
+      <edge source="TCGA-66-2787-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="591" weight="0.27318345802765065" />
+      <edge source="TCGA-66-2788-01A-01T-0981-13" target="TCGA-66-2790-01A-01T-0981-13" id="592" weight="0.2055359654509796" />
+      <edge source="TCGA-66-2788-01A-01T-0981-13" target="TCGA-66-2791-01A-01T-0981-13" id="593" weight="0.35899694530542936" />
+      <edge source="TCGA-66-2788-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="594" weight="0.32659290662123525" />
+      <edge source="TCGA-66-2789-01A-01T-0981-13" target="TCGA-66-2790-01A-01T-0981-13" id="595" weight="0.2767022480195285" />
+      <edge source="TCGA-66-2791-01A-01T-0981-13" target="TCGA-66-2795-01A-02T-0981-13" id="596" weight="0.42451938378386433" />
+    </edges>
+  </graph>
+</gexf>
